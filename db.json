@@ -50,6 +50,142 @@
                 "country": "Germany"
                 }
             ]
+        },
+        {
+            "id": 3,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Junior Web Developer",
+            "company": "Academic Work",
+            "location": "Hamburg",
+            "description": "Filler description: develop projects, work in team, be happy, live your dreams",
+            "how-to-apply": ["www.academicwork.de/thisjob, www.xing.de/academicwork/juniorwebdev"],
+            "address": [
+                {
+                "street":"Großer Burstah",
+                "number": 50,
+                "postcode": 20457,
+                "city": "Hamburg",
+                "country": "Germany"
+                }
+            ]
         }
     ]
 }
