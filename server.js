@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
 server.use(middlewares);
-server.use('/db.json', function (req, res) {
+server.use('db.json', function (req, res) {
         const page = req.query.page;
         const limit = req.query.limit;
 
