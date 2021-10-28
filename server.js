@@ -5,6 +5,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
 server.use(middlewares);
+/*
 server.use('db.json', function (req, res) {
         const page = req.query.page;
         const limit = req.query.limit;
@@ -31,5 +32,7 @@ server.use('db.json', function (req, res) {
         results.results = positions.slice(startIndex, endIndex);
         res.json(results);
     });
+*/
+
 
 server.listen(port);
